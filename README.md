@@ -1,7 +1,7 @@
 Hi 👋 My name is Seyed mostafa hasani
 =====================================
 
-React native developer
+React Native developer
 ----------------------
 
 I love to react-native. First, I worked in the front-end web developer field, but now I build android & ios apps with react native and I write native-component for react-native with java to increase the performance app.
