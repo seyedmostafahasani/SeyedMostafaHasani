@@ -1,4 +1,4 @@
-Hi 👋 My name is Seyed mostafa hasani
+Hi 👋 My name is seyed mostafa hasani
 =====================================
 
 React Native Developer
