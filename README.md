@@ -6,7 +6,6 @@ React Native Developer
 
 I love to react-native. At first, I worked in the front-end web developer field, but now I build android & ios apps with react native and I write native-component for react-native with java to increase the performance app.
 
-* 🌍  I'm based in Tehran, Iran
 * ✉️  You can contact me at [seyedmostafahassani@gmail.com](mailto:seyedmostafahassani@gmail.com)
 * 🚀  I'm currently working on [Bamano](http://bamano.life)
 * 🧠  I'm learning to write native components for react-native
