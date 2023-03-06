@@ -4,10 +4,10 @@ Hi 👋 My name is seyed mostafa hasani
 React Native Developer
 ----------------------
 
-I love to react-native. At first, I worked in the front-end web developer field, but now I build android & ios apps with react native and I write native-component for react-native with java to increase the performance app.
+I have a strong affinity for JavaScript, having worked in the field for over six years. For three years, I honed my skills as a Front-End Developer, and for the past three years, I have been working as a Mobile Developer, using React Native to build apps for both Android and iOS. Additionally, I write native components with Java to optimize the performance of React Native applications.
 
 * ✉️  You can contact me at [seyedmostafahassani@gmail.com](mailto:seyedmostafahassani@gmail.com)
-* 🚀  I'm currently working on [Bamano](http://bamano.life)
+* 🚀  I'm currently working on [Shakewell Agency](https://www.shakewell.agency)
 * 🧠  I'm learning to write native components for react-native
 
 ### Skills
