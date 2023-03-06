@@ -1,4 +1,4 @@
-Hi 👋 My name is seyed mostafa hasani
+Hi 👋 My name is Seyed Mostafa Hasani
 =====================================
 
 React Native Developer
@@ -8,7 +8,6 @@ I have a strong affinity for JavaScript, having worked in the field for over six
 
 * ✉️  You can contact me at [seyedmostafahassani@gmail.com](mailto:seyedmostafahassani@gmail.com)
 * 🚀  I'm currently working on [Shakewell Agency](https://www.shakewell.agency)
-* 🧠  I'm learning to write native components for react-native
 
 ### Skills
 
