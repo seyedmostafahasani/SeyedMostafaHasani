@@ -4,7 +4,7 @@ Hi 👋 My name is Seyed Mostafa Hasani
 React Native Developer
 ----------------------
 
-I have a strong affinity for JavaScript, having worked in the field for over seven years. For three years, I honed my skills as a Front-End Developer, and for the past four years, I have been working as a Mobile Developer, using React Native to build apps for both Android and iOS. Additionally, I write native components with Java to optimize the performance of React Native applications.
+I have a strong affinity for JavaScript, having worked in the field for over eight years. For three years, I honed my skills as a Front-End Developer, and for the past five years, I have been working as a Mobile Developer, using React Native to build apps for both Android and iOS. Additionally, I write native components with Java to optimize the performance of React Native applications.
 
 * ✉️  You can contact me at [seyedmostafahassani@gmail.com](mailto:seyedmostafahassani@gmail.com)
 * 🚀  I'm currently working on [Appetit](https://appetit.fit/)
