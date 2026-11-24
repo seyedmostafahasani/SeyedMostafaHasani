@@ -1,25 +1,45 @@
-Hi 👋 My name is Seyed Mostafa Hasani
-=====================================
-
-Mobile Application Engineer
----------------------------
-
-With over 6 years of experience developing and maintaining mobile applications for both iOS and Android platforms, I have a deep understanding of how to optimize React Native apps for both platforms, including speed and accessibility improvements. Writing clean and well-documented code is very important to me, and I excel at managing timelines and aligning expectations. I also actively contribute to open-source projects like react-native-video. Additionally, I have experience using the Expo module in app development.
-
-* ✉️  You can contact me at [seyedmostafahassani@gmail.com](mailto:seyedmostafahassani@gmail.com)
-* 🚀  I'm currently working on [Safetag Tracking](https://www.safetagtracking.com/)
-
-### Skills
-
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<h2 align="center">Hi 👋, I'm Seyed Mostafa Hasani</h2>
+<p align="center">
+Mobile Application Engineer · 7+ years of experience
 </p>
 
+---
 
-### Socials
+### 🧠 About Me
+Mobile Application Engineer focused on building high-quality mobile applications for iOS and Android.
+I mainly work with React Native and Expo, optimizing apps for speed and accessibility on both platforms.
+I care about clean, well-documented code, and I'm good at managing timelines and aligning expectations.
 
-<p align="left"> <a href="https://www.codepen.io/seyedmostafahasani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.dev.to/@seyedmostafahasani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/seyedmostafahasani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/seyedmostafahasani/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@seyedmostafahasani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/3238301/seyed-mostafa-hasani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/seyed_hasani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+---
+
+### 🛠 Tech Stack
+- **Mobile:** React Native, Expo, Android (Kotlin), iOS (Swift)
+- **Languages:** JavaScript, TypeScript, Swift, Kotlin, Java
+
+---
+
+### 📦 Open Source
+- **[react-native-splash-motion](https://github.com/seyedmostafahasani/react-native-splash-motion)** – library I maintain: an animated React Native splash screen with Lottie & dotLottie, rendered natively before your JavaScript loads. Works with Expo and bare React Native, built on Nitro Modules
+- **[react-native-video](https://github.com/TheWidlarzGroup/react-native-video)** – active contributor
+
+---
+
+### 🚀 Currently Working On
+- **[Safetag Tracking](https://www.safetagtracking.com/)**
+
+---
+
+### 📊 GitHub
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=seyedmostafahasani&show_icons=true&hide_border=true&theme=onedark" />
+</p>
+
+---
+
+### 📫 Contact
+<p align="center">
+<a href="mailto:seyedmostafahassani@gmail.com">Email</a> ·
+<a href="https://www.linkedin.com/in/seyedmostafahasani/">LinkedIn</a> ·
+<a href="https://www.twitter.com/seyed_hasani">Twitter</a> ·
+<a href="https://www.medium.com/@seyedmostafahasani">Medium</a> ·
+</p>
